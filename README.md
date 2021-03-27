@@ -13,7 +13,7 @@
 - Установить [Docker-Compose](https://docs.docker.com/compose/install/)
 - Скопировать репозиторий командой
 `git clone https://github.com/Shureck/Yandex-Backend.git`
-- Выполнить из корневой папки репозитория команду
+- Выполнить из корневой папки проекта команду
 `docker-compose up -d --build`
 - Дождаться завершения сборки и запуска
 
